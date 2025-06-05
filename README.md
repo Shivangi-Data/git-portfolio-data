@@ -31,11 +31,11 @@ I'm a data enthusiast who thrives at the intersection of business and technology
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [⚡ Electricity Demand Forecasting](https://github.com/your-username/electricity-demand-forecasting) | Forecasted hourly demand in NSW using ARIMAX and XGBoost | Python, ARIMA, XGBoost |
+| [⚡ Electricity Demand Forecasting](https://github.com/Shivangi-Data/electricity-demand-forecasting) | Forecasted hourly demand in NSW using ARIMAX and XGBoost | Python, ARIMA, XGBoost |
 | [📊 Australian Safety Dashboard](https://shivangiz5515954.shinyapps.io/APSDashboard/) | R Shiny dashboard visualizing personal safety trends by gender & age | R, Shiny, ggplot2 |
-| [🌱 Sustainable Waste Dashboard](https://github.com/your-username/waste-dashboard) | Power BI dashboard to track plastic reduction and sorting improvements | Power BI |
-| [📁 Accenture Virtual Internship](https://github.com/your-username/accenture-job-simulation) | Simulated real-world project analyzing 7 datasets for a media strategy | Excel, PowerPoint, SQL |
-| [📁 PWC Virtual Internship](https://github.com/your-username/accenture-job-simulation) | Created executive dashboards using Power BI focused on HR KPIs and gender balance metrics.  |Power BI |
+| [🌱 Sustainable Waste Dashboard](https://Shivangi-Data/your-username/waste-dashboard) | Power BI dashboard to track plastic reduction and sorting improvements | Power BI |
+| [📁 Accenture Virtual Internship](https://Shivangi-Data/your-username/accenture-job-simulation) | Simulated real-world project analyzing 7 datasets for a media strategy | Excel, PowerPoint, SQL |
+| [📁 PWC Virtual Internship](https://github.com/Shivangi-Data/pwc-job-simulation) | Created executive dashboards using Power BI focused on HR KPIs and gender balance metrics.  |Power BI |
 
 ---
 
